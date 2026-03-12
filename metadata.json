@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Chat",
+  "description": "A powerful real-time communication platform with chat, voice, and video calling powered by Firebase and WebRTC.",
+  "requestFramePermissions": ["camera", "microphone", "screen-wake-lock"]
+}
